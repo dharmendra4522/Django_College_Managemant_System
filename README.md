@@ -1,2 +1,2 @@
-# Django_Jobs-At-Mail_Project
-I developed this Jobs at mail project using Python Django framework.  
+# Django_Student_management_System
+I developed this Student management System project using Python Django framework.  
