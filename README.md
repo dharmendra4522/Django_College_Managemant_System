@@ -7,3 +7,8 @@ courses, subjects, classes, assignments, grades and timetable. It also provides 
 a faculty can also check about his daily schedule, can upload assignments, and notices to 
 the students. Here administrator will manage the accounts of the student and faculties, 
 makes the timetable, and upload the latest information about the campus
+
+command ->
+   for compile code --> 1. python manage.py migrate
+                        2. python manage.py migration
+   for run sever -->     pyton manage.py runserver
